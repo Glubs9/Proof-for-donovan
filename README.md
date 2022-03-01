@@ -1,8 +1,8 @@
 I'm trying to prove Lemma 2 from the previous problems with non-termination.
 
-We are going to be working on a system with at least the following rule $$
-\frac{e_1 : A \rightarrow B , \text{ } e_2 : A}{e_1 \text{ } e_2 : B} $$
-Assume a consistent system, i.e: one in which there is no x : $\bot$ . $$
+We are going to be working on a system with at least the following rule $
+\frac{e_1 : A \rightarrow B , \text{ } e_2 : A}{e_1 \text{ } e_2 : B} $
+Assume a consistent system, i.e: one in which there is no x : $\bot$ . $
 \displaylines{
 \text{theorem}  \\
 (f : P \rightarrow \bot) \rightarrow (\text{P is uninhabited}) \\\\
@@ -14,4 +14,4 @@ Assume a consistent system, i.e: one in which there is no x : $\bot$ . $$
 \text{this is a contradiction with the assumption that we are working in a consistent system.} \\
 \text{as we have reached a contradiction with the assumption that P is inhabiated,} \\
 \text{p must be uninhabited } \square
-} $$
+} $
