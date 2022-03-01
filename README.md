@@ -15,3 +15,4 @@ Assume a consistent system, i.e: one in which there is no x : $\bot$ . $
 \text{as we have reached a contradiction with the assumption that P is inhabiated,} \\
 \text{p must be uninhabited } \square
 } $
+![image not found](donovan.jpg?raw=true)
